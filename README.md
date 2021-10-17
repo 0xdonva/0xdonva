@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+'''python
+#!/usr/bin/python
+# -*- coding: utf-8 -*-
+'''
