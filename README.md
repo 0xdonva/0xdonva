@@ -1,20 +1,23 @@
 ### Hi there 👋
+[![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=102)](https://github.com/ellerbrock/open-source-badge/)
 
-<!--
-**0xdonva/0xdonva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-'''python
+```python
 #!/usr/bin/python
 # -*- coding: utf-8 -*-
-'''
+
+
+class ComputerScienceStudent:
+
+    def __init__(self):
+        self.name = "Matteo Violi"
+        self.role = "Computer Science Student at Unimore"
+        self.future = "Wannabe Cybersecurity expert or/and Bug Bounty Hunter"
+        self.language_spoken = ["it_IT", "en_US"]
+
+me = ComputerScienceStudent()
+```
+
+
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=0xdonva&theme=blue-green)](https://github.com/anuraghazra/github-readme-stats)
+[![Naereen's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=0xdonva&theme=blue-green)](https://github.com/anuraghazra/github-readme-stats)
